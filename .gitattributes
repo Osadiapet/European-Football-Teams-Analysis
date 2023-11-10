@@ -1,3 +1,4 @@
 .csv filter=lfs diff=lfs merge=lfs -text
 C:/Users/osadi/OneDrive/Desktop/Projects/European[[:space:]]Teams[[:space:]]Analysis/Match.csv filter=lfs diff=lfs merge=lfs -text
+Match.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
