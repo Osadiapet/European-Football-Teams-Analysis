@@ -237,11 +237,6 @@ if st.checkbox("Show Matches Data"):
 
     st.dataframe(matches_data.head())
 
-# Number of matches in the dataset
-if st.checkbox('Show Number of Matches in the Dataset'):
-    num_matches = teams_data['match_api_id'].nunique()
-    st.write(f"Number of matches in the dataset: {num_matches}")
-
 
 # Descriptive statistics
 st.write("Descriptive Statistics of Matchres.")
