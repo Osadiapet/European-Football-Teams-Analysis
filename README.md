@@ -1,8 +1,8 @@
-# Unlocking the Game: A Football Data Analytics Odyssey
+# European Football Teams Analysis
 
 ## Introduction
 
-The world of football is not just about goals and cheers; it's a realm where data and insights can elevate the game. Our project takes you on a journey through a treasure trove of football data, encompassing more than 25,000 matches, 10,000 players, and 11 European countries' top championships, spanning from the 2008/2009 season to 2015/2016. Sourced from EA Sports' FIFA video game series.
+The world of football is not just about goals and cheers; it's where data and insights can elevate the game. The data for this project encompass more than 25,000 matches, 10,000 players, and 11 European countries' top championships, spanning from the 2008/2009 season to 2015/2016 sourced from the EA Sports FIFA video game series.
 
 This football data analytics project is poised to be a deep dive into the world of European professional football. It aims to uncover patterns, strategies, and extraordinary talents that make this sport the global phenomenon it is. From teams' remarkable turnarounds to the secrets behind star players and the intricate relationships among player attributes, we will leave no stone unturned.
 
